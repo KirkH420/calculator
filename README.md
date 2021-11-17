@@ -1,3 +1,13 @@
+I forked this repo for research and educational purposes only.
+At this time, I have no plans to release binaries.
+
+Current changes:
+Retargeted Windows SDK Platform Toolset
+Windows SDK Version:        10.0.20348.0 <<< Latest installed
+Windows SDK Min. Version:   10.0.17134.0
+
+
+
 # Calculator
 The Windows Calculator app is a modern Windows app written in C++ and C# that ships pre-installed with Windows.
 The app provides standard, scientific, and programmer calculator functionality, as well as a set of converters between various units of measurement and currencies.
