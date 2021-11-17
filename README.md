@@ -6,7 +6,7 @@
 - Current changes: 
 - Retargeted Windows SDK Platform Toolset 
 - Windows SDK Version:        10.0.20348.0 <<< Latest installed 
-- Windows SDK Min. Version:   10.0.17134.0 
+- Windows SDK Min. Version:   10.0.17134.0
 
 
 # Calculator
